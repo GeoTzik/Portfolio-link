@@ -1,2 +1,4 @@
 # Portfolio-link
-My Unreal Engine portfolio — demos, projects &amp; contact
+My Unreal Engine portfolio
+https://george-dev.me
+
